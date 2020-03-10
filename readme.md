@@ -1,18 +1,24 @@
 # Unit 1 Homework Assignment: FinTech Case Study
 
-# TITLE
+# RIPPLE - A GLOBAL BLOCKCHAIN SOLUTION
 
 ## Overview and Origin
+Reference: Ripple Company Website [ripple.com](https://ripple.com/)
 
 * Name of company
+Ripple (XRP) is the company to be presented in this case study.
 
 * When was the company incorporated?
+Ripple initially began in 2012. Since then they have grown, developled their integrated global payment system, and become a leader in the Blockchain and Cryptocurrency world.
 
 * Who are the founders of the company?
+Brad Garlinghouse is CEO and founder of the company. David Schwartz was also an original founder of Ripple. In addition to these two, there is a talented team of software engineers and global sales and operations management professionals.
 
 * How did the idea for the company (or project) come about?
+The concept of Ripple was developed based on the company's founders identifying difficulties in payment systems. With the emergence of blockchain technology, Garlinghouse, Schwartz and the founding team decided to apply the technology to digital assets. The goal: "enable financial institutions to send money across borders, instantly, reliably and for fractions of a penny." [ripple.com, 2020](ripple.com) 
 
 * How is the company funded? How much funding have they received?
+Ripple is funded by venture capital (VC) money and other private investors around the world. Several contributors include: Accenture, SBI Group, and Santander among others. Funding company Santander, now also runs on ripple, as do major companies such as American Express and Moneygram. [ripple.com, 2020](ripple.com) 
 
 
 ## Business Activities:

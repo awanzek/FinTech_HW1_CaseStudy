@@ -32,8 +32,11 @@ Ripple (XRP) is the company to be presented in this case study.
 
 * **What specific financial problem is the company or project trying to solve?**
 
+    Ripple's goal is to solve the finanical problem of global payments and transactions. In doing so the have developed RippleNet which was designed to connect financial institutions around the world and allow for secure and less expensive movement of funds and payments between them. ([Ripple-Overview](https://ripple.com/wp-content/uploads/2020/03/RippleNet-Overview.pdf))
 
 * **Who is the company's intended customer?  Is there any information about the market size of this set of customers?What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
+    
+    Ripple's primary customer is financial insitutions that deal in large payments and transacations, as they are most likely to desire technology to increase speed, security, and an international payment network.       
 
 * **Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)**
 
@@ -59,7 +62,7 @@ Ripple (XRP) is the company to be presented in this case study.
 * **What are the other major companies in this domain?**
 Other major companies in the blockchain and cryptocurrency domain of FinTech include IOTA, as mentioned above with its tangle technology, and Coinbase, referenced in Forbes articles cited for this case study. Coinbase is one of the 10 biggest companies in the space and has developed from an online storage wallet to an insitutional online trading platform. ([Kauflin, 2019](https://www.forbes.com/sites/jeffkauflin/2019/02/04/the-10-biggest-fintech-companies-in-america-2019/#4cbf3d5832b9))
 
-    Other major players are . There is an endless number of coins being created and produced by companies around the world. However, the top coins Bitcoin, Ethereum, Litecoin and Ripple still dominate the cryptocurrency markets. 
+    Another major player that is stepping onto the scene is Libra, Facebook's own cryptocurrency coin. ([Reiff, 2020](https://www.investopedia.com/tech/most-important-cryptocurrencies-other-than-bitcoin/)) There is an endless number of coins being created and produced by companies around the world. However, the top coins Bitcoin, Ethereum, Litecoin and Ripple still dominate the cryptocurrency markets. 
 
 ## Results
 
@@ -86,14 +89,16 @@ Other major companies in the blockchain and cryptocurrency domain of FinTech inc
 ```
 
 ```
-Works Cited:
+**Works Cited:**
 1. Ripple Company Webiste, 2020, [ripple.com](ripple.com)
-2. Browne, Ryan, *Ripple, which uses cryptocurrency for cross-border payments, is now valued at $10 billion*,CNBC, December 20, 2019, [https://www.cnbc.com/2019/12/20/ripple-creator-of-xrp-crypotocurrency-is-now-valued-at-10-billion.html](https://www.cnbc.com/2019/12/20/ripple-creator-of-xrp-crypotocurrency-is-now-valued-at-10-billion.html
+2. Ripple - Overview, *The World’s Most Reliable Global Payments Network* [https://ripple.com/wp-content/uploads/2020/03/RippleNet-Overview.pdf](https://ripple.com/wp-content/uploads/2020/03/RippleNet-Overview.pdf)
+2. Browne, Ryan, *Ripple, which uses cryptocurrency for cross-border payments, is now valued at $10 billion*,CNBC, December 20, 2019, ["https://www.cnbc.com/2019/12/20/ripple-creator-of-xrp-crypotocurrency-is-now-valued-at-10-billion.html"](https://www.cnbc.com/2019/12/20/ripple-creator-of-xrp-crypotocurrency-is-now-valued-at-10-billion.html
 )
-3. Kauflin, Jeff, *The 11 Biggest Fintech Companies In America 2019*, Forbes, February 4, 2019, [https://www.forbes.com/sites/jeffkauflin/2019/02/04/the-10-biggest-fintech-companies-in-america-2019/#4cbf3d5832b9)](https://www.forbes.com/sites/jeffkauflin/2019/02/04/the-10-biggest-fintech-companies-in-america-2019/#4cbf3d5832b9)
-4. Forbes, *Ripple*, Forbes, March 9, 2020, [https://www.forbes.com/companies/ripple/?list=fintech/#206f5f313997)](https://www.forbes.com/companies/ripple/?list=fintech/#206f5f313997)
-5. Hassani,H., Huang, X. & Silva, E., *Big-Crypto: Big Data, Blockchain and Cryptocurrency*, MDPI, October 19, 2018, [MDPI-PDF Dowload Site](https://www.mdpi.com/2504-2289/2/4/34)
-6. Rollcall, *Venezuelans use cryptocurrency to bypass corruption, inflation*, Caitlin Reilly, September 10, 2019, [https://www.rollcall.com/2019/09/10/venezuelans-use-cryptocurrency-to-bypass-corruption-inflation/](https://www.rollcall.com/2019/09/10/venezuelans-use-cryptocurrency-to-bypass-corruption-inflation/)
+3. Kauflin, Jeff, *The 11 Biggest Fintech Companies In America 2019*, Forbes, February 4, 2019, ["https://www.forbes.com/sites/jeffkauflin/2019/02/04/the-10-biggest-fintech-companies-in-america-2019/#4cbf3d5832b9)"](https://www.forbes.com/sites/jeffkauflin/2019/02/04/the-10-biggest-fintech-companies-in-america-2019/#4cbf3d5832b9)
+4. Forbes, *Ripple*, Forbes, March 9, 2020, ["https://www.forbes.com/companies/ripple/?list=fintech/#206f5f313997)"](https://www.forbes.com/companies/ripple/?list=fintech/#206f5f313997)
+5. Hassani,H., Huang, X. & Silva, E., *Big-Crypto: Big Data, Blockchain and Cryptocurrency*, MDPI, October 19, 2018, ["https://www.mdpi.com/2504-2289/2/4/34"](https://www.mdpi.com/2504-2289/2/4/34)
+6. Rollcall, *Venezuelans use cryptocurrency to bypass corruption, inflation*, Caitlin Reilly, September 10, 2019, ["https://www.rollcall.com/2019/09/10/venezuelans-use-cryptocurrency-to-bypass-corruption-inflation/"](https://www.rollcall.com/2019/09/10/venezuelans-use-cryptocurrency-to-bypass-corruption-inflation/)
+7. Reiff, Nathan, *The 10 Most Important Cryptocurrencies Other Than Bitcoin*, Investopedia, January 8, 2020, ["https://www.investopedia.com/tech/most-important-cryptocurrencies-other-than-bitcoin/"](https://www.investopedia.com/tech/most-important-cryptocurrencies-other-than-bitcoin/)
 
 ```
 

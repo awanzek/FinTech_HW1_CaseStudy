@@ -55,7 +55,7 @@ Ripple (XRP) is the company to be presented in this case study.
 
 * **What have been the major trends and innovations of this domain over the last 5-10 years?** 
 
-    In the Cryptocurrency and Blockchain domain, there have been major changes in use cases and a large growth in number of companys and ICOs. As discussed in an article sourced from MDPI, online payments and transactions have become widespread and are in high demand. However, older options, such as PayPal, for online payments did not until recently have the technology of blockchain which is essential to the definition and use of cryptocurrency. In the past 10 years the advancement of blockchain has allowed cryptocurrency to become a desireable digital payment method. Cyrptocurrency is decentralized and allows peer-to-peer or business-to-business transactions worldwide to occur with high levels of trust and security and the transaction is tracked in the blockchain. Now there are some key things to consider that influence trends and innovations. Those being financial regulations, global acceptance and use, and blockchain exchange security. ((MDPI, 2018)[https://www.mdpi.com/2504-2289/2/4/34])
+    In the Cryptocurrency and Blockchain domain, there have been major changes in use cases and a large growth in number of companys and ICOs. As discussed in an article sourced from MDPI, online payments and transactions have become widespread and are in high demand. However, older options, such as PayPal, for online payments did not until recently have the technology of blockchain which is essential to the definition and use of cryptocurrency. In the past 10 years the advancement of blockchain has allowed cryptocurrency to become a desireable digital payment method. Cyrptocurrency is decentralized and allows peer-to-peer or business-to-business transactions worldwide to occur with high levels of trust and security and the transaction is tracked in the blockchain. Now there are some key things to consider that influence trends and innovations. Those being financial regulations, global acceptance and use, and blockchain exchange security. ([Hassani, Huang & Silva,2018](https://www.mdpi.com/2504-2289/2/4/34))
     
     In terms of financial regulations blockchain and cryptocurrency have become more accepted. Major financial institutions and banks are beginning to adapt or support use cases. Likewise individuals are more accepting of virtual currencies and some countries have even been forced to turn to cryptocurrency such as Bitcoin when their currency and goverenments have collapsed. ([Rollcall, 2019](https://www.rollcall.com/2019/09/10/venezuelans-use-cryptocurrency-to-bypass-corruption-inflation/)) Blockchain security on exchanges has also been an issue addressed in the past 10 years. For isntance, major exchange hacks such as the Mt. Gox have prompted developers and researchers to find ways to improve security and privacy. 
 
@@ -103,7 +103,7 @@ Ripple (XRP) is the company to be presented in this case study.
 * **What technologies would this additional product or service utilize?**
 
     The new myRipple product and service would have to utilize 
-    
+
 * **Why are these technologies appropriate for your solution?**
 
 ```

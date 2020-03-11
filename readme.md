@@ -65,7 +65,8 @@ Ripple (XRP) is the company to be presented in this case study.
 
 
 * **What are the other major companies in this domain?**
-Other major companies in the blockchain and cryptocurrency domain of FinTech include IOTA, as mentioned above with its tangle technology, and Coinbase, referenced in Forbes articles cited for this case study. Coinbase is one of the 10 biggest companies in the space and has developed from an online storage wallet to an insitutional online trading platform. ([Kauflin, 2019](https://www.forbes.com/sites/jeffkauflin/2019/02/04/the-10-biggest-fintech-companies-in-america-2019/#4cbf3d5832b9))
+
+    Other major companies in the blockchain and cryptocurrency domain of FinTech include IOTA, as mentioned above with its tangle technology, and Coinbase, referenced in Forbes articles cited for this case study. Coinbase is one of the 10 biggest companies in the space and has developed from an online storage wallet to an insitutional online trading platform for cryptocurrencies. ([Kauflin, 2019](https://www.forbes.com/sites/jeffkauflin/2019/02/04/the-10-biggest-fintech-companies-in-america-2019/#4cbf3d5832b9))
 
     Another major player that is stepping onto the scene is Libra, Facebook's own cryptocurrency coin. ([Reiff, 2020](https://www.investopedia.com/tech/most-important-cryptocurrencies-other-than-bitcoin/)) There is an endless number of coins being created and produced by companies around the world. However, the top coins Bitcoin, Ethereum, Litecoin and Ripple still dominate the cryptocurrency markets. 
 
@@ -73,7 +74,7 @@ Other major companies in the blockchain and cryptocurrency domain of FinTech inc
 
 * **What has been the business impact of this company so far?** 
 
-    To date Ripple has proved to be a desireable financial transaction solution.
+    To date Ripple has proved to be a desireable financial transaction solution. They have onboarded many major financial institutions, including American Express, Santander, SBI, Moneygram, and PNC, to their RippleNet global payment network and system. CEO of Santander states "Customers who were not doing international transfers are now using the service, customers who were using international transfer are now doing it more..." ([ripple.com](https://ripple.com/ripplenet)). In otherwords, they have created a connective and useful tool for businesses and institutions to connect and transfer funds securely. THe impact of this is the increased number of financial transactions and the reduced amount of time. This beneficial result allows increased business activity and quality control which should lead to an even more global network of businesses, finance, and technology. ([ripple.com](https://ripple.com/))
 
 * **What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?** 
 
@@ -105,6 +106,8 @@ Other major companies in the blockchain and cryptocurrency domain of FinTech inc
 6. Rollcall, *Venezuelans use cryptocurrency to bypass corruption, inflation*, Caitlin Reilly, September 10, 2019, ["https://www.rollcall.com/2019/09/10/venezuelans-use-cryptocurrency-to-bypass-corruption-inflation/"](https://www.rollcall.com/2019/09/10/venezuelans-use-cryptocurrency-to-bypass-corruption-inflation/)
 7. Reiff, Nathan, *The 10 Most Important Cryptocurrencies Other Than Bitcoin*, Investopedia, January 8, 2020, ["https://www.investopedia.com/tech/most-important-cryptocurrencies-other-than-bitcoin/"](https://www.investopedia.com/tech/most-important-cryptocurrencies-other-than-bitcoin/)
 8. Castillo, Michael Del, *Ripple’s Trillion-Dollar Man*, Forbes, September 5, 2018, (["https://www.forbes.com/sites/michaeldelcastillo/2018/09/04/ripples-trillion-dollar-man/#611091387324"](https://www.forbes.com/sites/michaeldelcastillo/2018/09/04/ripples-trillion-dollar-man/#611091387324))
+9. World Atlas,([https://www.worldatlas.com/articles/how-many-countries-are-in-the-world.html](https://www.worldatlas.com/articles/how-many-countries-are-in-the-world.html))
+
 
 ```
 

@@ -78,22 +78,32 @@ Ripple (XRP) is the company to be presented in this case study.
 
 * **What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?** 
 
-    Metrics that are critical to assessing blockchain and cryptocurrency success include functional aspects of: speed, trust, cost, and accesability. In addition market aspects such as coin price, circulating supply, and market cap in regards to its price movement and value can show success. Based on the functional metrics of, Ripple is solid. They have speed: 
+    Metrics that are critical to assessing blockchain and cryptocurrency success include functional aspects of: speed, trust, cost, and accesability. In addition market aspects such as coin price, circulating supply, and market cap in regards to its price movement and value can show success. 
+    
+    Based on the functional metrics of, Ripple is solid. Ripple provides speed: a Ripple transaction takes 3-4 seconds (even faster than most other cryptocurrencies like BTC and ETH) vs. a traditional 3-5 business days. Ripple provides high levels of trust: Ripple has a distrubted network of nodes tracking and validating transactions and has been around 8 years, much longer than some of its competitors. Ripple reduces cost: transaction fees on the ripple network are low and they prioritize efficiency to reduce cost. Ripple is accessible: Ripple is global and provides transactions between 40 different currencies worldwide and connects global financial institutions via RippleNet. ([ripple.com](https://ripple.com/xrp/)) 
+    
+    Based on the market and price aspects, Ripple is ideal in the fact that there is a finite coin supply and a large market cap. However the circulating supply is large, so there are plenty of coins to go around. This is likely why Ripple is a top performing and widely used coin, but doesn't show for it in its price per coin, coming in at only about $0.20 at the time of this case study. Thus in terms of price value per coin, Ripple is not as strong as its competitors such as BTC and ETH, but it does surpass Stellar, and come in similar to IOTA ([ripple.com](https://ripple.com/xrp/)) ([coinbase.com](https://www.coinbase.com/))
 
 * **How is your company performing relative to competitors in the same domain?**
 
-    Compared to other blockchain and cryptocurrency payment systems Ripple is
+    Compared to other blockchain and cryptocurrency payment systems Ripple is definitely ahead in its implementation of its network and protocol. As stated, Ripple has a strong history and track record, with which they have built trust with major financial institutions. In fact "all ledgers closed without issue since inception". ([ripple.com](https://ripple.com/xrp/)) In terms of network development, though, Ripple may need to further advance or add to its network new technologies, such as tangle, which IOTA has implemented, and hashgraph. Overall, Ripple has captured a strong network so far and also recieved strong private funding to continue its competitive development. Ideally, in anaylzing their competitors use of new technologies, Ripple will use their funding to continue to build on their strong foundation of XRP and RippleNET. ([ripple.com](https://ripple.com/))
 
 ## Recommendations
 
 * **If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)**
 
-    To help Ripple maintain its competitive edge, I would suggest continuing to focus on banking institutions and maintain its partially centralized appeal. I would also suggest to make a spin off of RippleNet for institutions and possibly develop some type of system for individuals to almost have a "bank account" with Ripple as though Ripple itself is the bank that controls and services all the other major financial institutions and banks. This way, in a sense, the people would be relying more in Ripple and have the banks relying on Ripple rather than being in control. I am not sure how well this would work though, as Ripple has a strong target market of major financial institutions, while other cryptocurrencies are more focused on law, real-estate, social networks, entertainment etc. Regardless, if they can find some way to make Ripple coins more common place amoung individuals and push them towards using them in purchases and spending on a daily basis thy would truely be a common place and global currency. For the purposes of this case study, I propose myRipple an application that allows individuals to send coins directly and also to store and lend coins for themselves and others.  
+    To help Ripple maintain its competitive edge, I would suggest continuing to focus on banking institutions and maintain its partially centralized appeal. I would also suggest to make a spin off of RippleNet for institutions and possibly develop some type of system for individuals to almost have a "bank account" with Ripple as though Ripple itself is the bank that controls and services all the other major financial institutions and banks. This way, in a sense, the people would be relying more in Ripple, in theory if this application was decentralized, they would be relying in themselves. They would also have the banks and institutions relying on them in a reverse way through Ripple. I am not sure how well this would work though, as Ripple has a strong target market of major financial institutions, while other cryptocurrencies are more focused on law, real-estate, social networks, entertainment and other sectors of transaction issues. 
+    
+    Regardless, if they can find some way to make Ripple coins more common place among individuals and push them towards using them in purchases and spending on a daily basis they would truly be a common place and global currency. For the purposes of this case study, I propose myRipple. myRipple will be an application that allows individuals to send coins directly and also to store and lend coins for themselves and others.  
 
 * **Why do you think that offering this product or service would benefit the company?**
 
+    Offering a service like myRipple, that can target everyday transactions and spending would benefit Ripple by growing its network. If you view each individual as a node in the network, gaining the trust and compliance of individuals will allow for a large network of available nodes for operations and transactions. I also think making a more decentralized aspect, like the proposed myRipple, will erase the view of cryptocurrency supporters that Ripple is "centralized" and not truly promoting the goal of the initial cryptocurrency, Bitcoin. Having a product or service that is more decentralized than their RippleNET that services a "centralized" banking and institution network, will hopefully allow for an increased demand and value of XRP.
+
 * **What technologies would this additional product or service utilize?**
 
+    The new myRipple product and service would have to utilize 
+    
 * **Why are these technologies appropriate for your solution?**
 
 ```

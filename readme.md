@@ -78,20 +78,24 @@ Ripple (XRP) is the company to be presented in this case study.
 
 * **What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?** 
 
-    Metrics include
+    Metrics that are critical to assessing blockchain and cryptocurrency success include functional aspects of: speed, trust, cost, and accesability. In addition market aspects such as coin price, circulating supply, and market cap in regards to its price movement and value can show success. Based on the functional metrics of, Ripple is solid. They have speed: 
 
 * **How is your company performing relative to competitors in the same domain?**
 
+    Compared to other blockchain and cryptocurrency payment systems Ripple is
 
 ## Recommendations
 
 * **If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)**
+
+    To help Ripple maintain its competitive edge, I would suggest continuing to focus on banking institutions and maintain its partially centralized appeal. I would also suggest to make a spin off of RippleNet for institutions and possibly develop some type of system for individuals to almost have a "bank account" with Ripple as though Ripple itself is the bank that controls and services all the other major financial institutions and banks. This way, in a sense, the people would be relying more in Ripple and have the banks relying on Ripple rather than being in control. I am not sure how well this would work though, as Ripple has a strong target market of major financial institutions, while other cryptocurrencies are more focused on law, real-estate, social networks, entertainment etc. Regardless, if they can find some way to make Ripple coins more common place amoung individuals and push them towards using them in purchases and spending on a daily basis thy would truely be a common place and global currency. For the purposes of this case study, I propose myRipple an application that allows individuals to send coins directly and also to store and lend coins for themselves and others.  
 
 * **Why do you think that offering this product or service would benefit the company?**
 
 * **What technologies would this additional product or service utilize?**
 
 * **Why are these technologies appropriate for your solution?**
+
 ```
 
 ```

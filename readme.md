@@ -45,6 +45,8 @@ Ripple (XRP) is the company to be presented in this case study.
 
 * **Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)**
 
+    Ripple is currently using its cryptocurrency technology, XRP Ledger to create and manage its services such as RippleNET. XRP Ledger is a decentralized and cryptographic network. The coin XRP is contained on the XRP Ledger. XRP Ledger offers many items including "secure, adaptable cryptography, smart contracts, a fast consensus algorithm, censorship-resistant transaction processing". ([XRP Ledger](https://xrpl.org/xrp-ledger-overview.html))
+
 
 
 ## Landscape:
@@ -121,7 +123,7 @@ Ripple (XRP) is the company to be presented in this case study.
 7. Reiff, Nathan, *The 10 Most Important Cryptocurrencies Other Than Bitcoin*, Investopedia, January 8, 2020, ["https://www.investopedia.com/tech/most-important-cryptocurrencies-other-than-bitcoin/"](https://www.investopedia.com/tech/most-important-cryptocurrencies-other-than-bitcoin/)
 8. Castillo, Michael Del, *Ripple’s Trillion-Dollar Man*, Forbes, September 5, 2018, (["https://www.forbes.com/sites/michaeldelcastillo/2018/09/04/ripples-trillion-dollar-man/#611091387324"](https://www.forbes.com/sites/michaeldelcastillo/2018/09/04/ripples-trillion-dollar-man/#611091387324))
 9. World Atlas,([https://www.worldatlas.com/articles/how-many-countries-are-in-the-world.html](https://www.worldatlas.com/articles/how-many-countries-are-in-the-world.html))
-
+10. XRP Ledger, ["https://xrpl.org/"](https://xrpl.org/)
 
 ```
 

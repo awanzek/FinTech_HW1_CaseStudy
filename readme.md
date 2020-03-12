@@ -98,36 +98,47 @@ Reference: Ripple Company Website [ripple.com](https://ripple.com/)
 
 * **If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)**
 
-    To help Ripple maintain its competitive edge, I would suggest continuing to focus on banking institutions and maintain its partially centralized appeal. I would also suggest to make a spin off of RippleNet for institutions and possibly develop some type of system for individuals to almost have a "bank account" with Ripple as though Ripple itself is the bank that controls and services all the other major financial institutions and banks. This way, in a sense, the people would be relying more in Ripple, in theory if this application was decentralized, they would be relying in themselves. They would also have the banks and institutions relying on them in a reverse way through Ripple. I am not sure how well this would work though, as Ripple has a strong target market of major financial institutions, while other cryptocurrencies are more focused on law, real-estate, social networks, entertainment and other sectors of transaction issues. 
+    To help Ripple maintain its competitive edge, I would suggest continuing to focus on banking institutions and maintain its partially centralized appeal. I would also suggest to make a spin off of RippleNet and possibly develop some type of system for individuals to almost have a "bank account" with Ripple as though Ripple itself is the bank that controls and services all the other major financial institutions and banks. This way, in a sense, the people would be relying more in Ripple, in theory if this application was decentralized, they would be relying in themselves. They would also have the banks and institutions relying on them in a reverse way through Ripple. I am not sure how well this would work though, as Ripple has a strong target market of major financial institutions, while other cryptocurrencies are more focused on individuals and other types of transactions in law, real-estate, social networks, entertainment and other sectors. 
     
-    Regardless, if they can find some way to make Ripple coins more common place among individuals and push them towards using them in purchases and spending on a daily basis they would truly be a common place and global currency. For the purposes of this case study, I propose myRipple. myRipple will be an application that allows individuals to send coins directly and also to store and lend coins for themselves and others.  
+    Regardless, if they can find some way to make XRP coins more common place among individuals and push them towards using XRP in purchases and spending on a daily basis Ripple would truly be an accepted and global currency. For the purposes of this case study, I propose myRipple. myRipple will be an application that allows individuals to send coins directly and also to store and lend coins for themselves and others.  
 
 * **Why do you think that offering this product or service would benefit the company?**
 
-    Offering a service like myRipple, that can target everyday transactions and spending would benefit Ripple by growing its network. If you view each individual as a node in the network, gaining the trust and compliance of individuals will allow for a large network of available nodes for operations and transactions. I also think making a more decentralized aspect, like the proposed myRipple, will erase the view of cryptocurrency supporters that Ripple is "centralized" and not truly promoting the goal of the initial cryptocurrency, Bitcoin. Having a product or service that is more decentralized than their RippleNET that services a "centralized" banking and institution network, will hopefully allow for an increased demand and value of XRP.
+    Offering a service like myRipple, that can target everyday transactions and spending would benefit Ripple by growing its network. If you view each individual as a node in the network, gaining the trust and compliance of individuals will allow for a large network of available nodes for operations and transactions. I also think making a more decentralized aspect, like the proposed myRipple, will erase the view of cryptocurrency supporters that Ripple is "centralized" and not truly promoting the goal of the initial cryptocurrency, Bitcoin. Having a product or service that is more decentralized than their RippleNET, which services a "centralized" banking and institution network, will hopefully allow for an increased demand and value of XRP.
 
 * **What technologies would this additional product or service utilize?**
 
-    The new myRipple product and service would have to utilize 
+    The new myRipple product and service would have to utilize further developments to their XRP Ledger. They will likely also have to implement similar technologies to tangle and hasgraph as their competitors have done to remain up to date and continue to lead in the cutting edge of blockchain and cryptocurrency technology.
 
 * **Why are these technologies appropriate for your solution?**
+    These technologies are appropriate for an individual use case of XRP on something such as myRipple because they provide key aspects for better experience. Tangle does transactions at even faster speeds than XRP and requires no transaction fee. Where as XRP all though fast, does have a small low cost transaction fee. Users will want options that take zero fees. The hashgraph concept is appropriate since it uses a "gossiping method" to verify and share information with nodes. When something is decentralized and controlled by individual users, it needs this type of consensus method that communicates with the other individual users to verify rather than one single entity. 
 
 ```
 
 ```
 **Works Cited:**
 1. Ripple Company Webiste, 2020, [ripple.com](https://ripple.com/)
+
 2. Ripple - Overview, *The World’s Most Reliable Global Payments Network* ["https://ripple.com/wp-content/uploads/2020/03/RippleNet-Overview.pdf"](https://ripple.com/wp-content/uploads/2020/03/RippleNet-Overview.pdf)
-2. Browne, Ryan, *Ripple, which uses cryptocurrency for cross-border payments, is now valued at $10 billion*,CNBC, December 20, 2019, ["https://www.cnbc.com/2019/12/20/ripple-creator-of-xrp-crypotocurrency-is-now-valued-at-10-billion.html"](https://www.cnbc.com/2019/12/20/ripple-creator-of-xrp-crypotocurrency-is-now-valued-at-10-billion.html
-)
+
+2. Browne, Ryan, *Ripple, which uses cryptocurrency for cross-border payments, is now valued at $10 billion*,CNBC, December 20, 2019, ["https://www.cnbc.com/2019/12/20/ripple-creator-of-xrp-crypotocurrency-is-now-valued-at-10-billion.html"](https://www.cnbc.com/2019/12/20/ripple-creator-of-xrp-crypotocurrency-is-now-valued-at-10-billion.html)
+
 3. Kauflin, Jeff, *The 11 Biggest Fintech Companies In America 2019*, Forbes, February 4, 2019, ["https://www.forbes.com/sites/jeffkauflin/2019/02/04/the-10-biggest-fintech-companies-in-america-2019/#4cbf3d5832b9)"](https://www.forbes.com/sites/jeffkauflin/2019/02/04/the-10-biggest-fintech-companies-in-america-2019/#4cbf3d5832b9)
+
 4. Forbes, *Ripple*, Forbes, March 9, 2020, ["https://www.forbes.com/companies/ripple/?list=fintech/#206f5f313997)"](https://www.forbes.com/companies/ripple/?list=fintech/#206f5f313997)
+
 5. Hassani,H., Huang, X. & Silva, E., *Big-Crypto: Big Data, Blockchain and Cryptocurrency*, MDPI, October 19, 2018, ["https://www.mdpi.com/2504-2289/2/4/34"](https://www.mdpi.com/2504-2289/2/4/34)
+
 6. Rollcall, *Venezuelans use cryptocurrency to bypass corruption, inflation*, Caitlin Reilly, September 10, 2019, ["https://www.rollcall.com/2019/09/10/venezuelans-use-cryptocurrency-to-bypass-corruption-inflation/"](https://www.rollcall.com/2019/09/10/venezuelans-use-cryptocurrency-to-bypass-corruption-inflation/)
+
 7. Reiff, Nathan, *The 10 Most Important Cryptocurrencies Other Than Bitcoin*, Investopedia, January 8, 2020, ["https://www.investopedia.com/tech/most-important-cryptocurrencies-other-than-bitcoin/"](https://www.investopedia.com/tech/most-important-cryptocurrencies-other-than-bitcoin/)
+
 8. Castillo, Michael Del, *Ripple’s Trillion-Dollar Man*, Forbes, September 5, 2018, ["https://www.forbes.com/sites/michaeldelcastillo/2018/09/04/ripples-trillion-dollar-man/#611091387324"](https://www.forbes.com/sites/michaeldelcastillo/2018/09/04/ripples-trillion-dollar-man/#611091387324)
+
 9. World Atlas,["https://www.worldatlas.com/articles/how-many-countries-are-in-the-world.html"](https://www.worldatlas.com/articles/how-many-countries-are-in-the-world.html)
+
 10. XRP Ledger, ["https://xrpl.org/"](https://xrpl.org/)
+
 11. Frankenfield, Jake, *Ripple (Cryptocurrency)* Investopedia, August 11, 2019, ["https://www.investopedia.com/terms/r/ripple-cryptocurrency.asp"](https://www.investopedia.com/terms/r/ripple-cryptocurrency.asp)
 
 ```

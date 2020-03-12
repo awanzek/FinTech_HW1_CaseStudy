@@ -1,16 +1,17 @@
 # Unit 1 Homework Assignment: FinTech Case Study
 
-# RIPPLE - A GLOBAL BLOCKCHAIN SOLUTION
+# RIPPLE - RippleNET - A GLOBAL BLOCKCHAIN SOLUTION
 
 ## Overview and Origin
 Reference: Ripple Company Website [ripple.com](https://ripple.com/)
 
 * **Name of company:**
-Ripple (XRP) is the company to be presented in this case study.
+
+    Ripple (XRP) is the company to be presented in this case study. They have technologies they are affiliated with and maintain such as RippleNET and XRP Ledger. ([ripple.com](https://ripple.com/))
 
 * **When was the company incorporated?**
 
-    Ripple initially began in 2012. Since then they have grown, developled their integrated global payment system, and become a leader in the Blockchain and Cryptocurrency world.
+    Ripple initially began in 2012. Since then they have grown, developed their integrated global payment system, and become a leader in the Blockchain and Cryptocurrency world. ([ripple.com](https://ripple.com/))
 
 * **Who are the founders of the company?**
 
@@ -19,12 +20,13 @@ Ripple (XRP) is the company to be presented in this case study.
 
 * **How did the idea for the company (or project) come about?**
 
-    The concept of Ripple was developed based on the company's founders identifying difficulties in payment systems. With the emergence of blockchain technology, Garlinghouse, Schwartz and the founding team decided to apply the technology to digital assets. The goal: "enable financial institutions to send money across borders, instantly, reliably and for fractions of a penny." ([ripple.com](https://ripple.com/)) 
+    The concept of Ripple's RippleNET was developed based on the company's founders identifying difficulties in payment systems. With the emergence of blockchain technology, Garlinghouse, Schwartz and the founding team decided to apply the technology to digital assets. The goal: "enable financial institutions to send money across borders, instantly, reliably and for fractions of a penny." ([ripple.com](https://ripple.com/)) 
 
 * **How is the company funded? How much funding have they received?**
 
     Ripple is funded by venture capital (VC) money and other private investors around the world. Several contributors include: Accenture, SBI Group, and Santander among others. Funding company Santander, now also runs on ripple, as do major companies such as American Express and Moneygram. ([ripple.com](rhttps://ripple.com/) )
-    Ripple recieves funding from direct sale of coins. For example they sold $500 million worth of XRP coins that they were then able to invest in Moneygram.([Forbes, 2020](https://www.forbes.com/companies/ripple/?list=fintech/#206f5f313997)). Recently, reports have announced that Ripple has achieved a $10 billion dollar evaluation after recieving $200 million in investment funding. ([Browne, 2019](https://www.cnbc.com/2019/12/20/ripple-creator-of-xrp-crypotocurrency-is-now-valued-at-10-billion.html))
+    
+    Ripple recieves funding from direct sale of its cryptocurrency coins. For example they sold $500 million worth of XRP coins that they then invested in Moneygram ([Forbes, 2020](https://www.forbes.com/companies/ripple/?list=fintech/#206f5f313997)). Recently, reports have announced that Ripple has achieved a $10 billion dollar evaluation after recieving $200 million in investment funding ([Browne, 2019](https://www.cnbc.com/2019/12/20/ripple-creator-of-xrp-crypotocurrency-is-now-valued-at-10-billion.html)).
 
 
 
@@ -32,15 +34,17 @@ Ripple (XRP) is the company to be presented in this case study.
 
 * **What specific financial problem is the company or project trying to solve?**
 
-    Ripple's goal is to solve the finanical problem of global payments and transactions. In doing so the have developed RippleNet which was designed to connect financial institutions around the world and allow for secure and less expensive movement of funds and payments between them. ([Ripple-Overview](https://ripple.com/wp-content/uploads/2020/03/RippleNet-Overview.pdf))
+    Ripple's goal is to solve the finanical problem of global payments and transactions. In doing so they have developed RippleNet which was designed to connect financial institutions around the world and allow for secure and less expensive movement of funds and payments between them. ([Ripple-Overview](https://ripple.com/wp-content/uploads/2020/03/RippleNet-Overview.pdf))
 
 * **Who is the company's intended customer?  Is there any information about the market size of this set of customers?What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
     
-    Ripple's primary customer is financial insitutions that deal in large payments and transacations, as they are most likely to desire technology that increases speed, security, and creates an international payment network. Based on Ripple's current customer base, their is a large potential market of customers as there are many financial institutions in every country. Currently ripple is providing payment options in over 40 currencies world wide. Thus, if every country had only 1 major financial institution which mananged international payments, that would be 195 customers ([World Atlas](https://www.worldatlas.com/articles/how-many-countries-are-in-the-world.html)). Granted, there are multiple financial institutions in every country, more currencies to connect, and plenty of room for Ripple to grow. The remaining factor is soley competition in the blockchain and cryptocurrency domain that services global payment systems. 
+    Ripple's primary customer is financial insitutions that deal in large payments and transactions. These financial instutuions are most likely to desire technology that increases speed and security as well as providing an international payment network. Based on Ripple's current customer base, their is a large potential market of customers as there are many financial institutions in every country. Currently ripple is providing payment options in over 40 currencies world wide. Thus, if every country had only 1 major financial institution which mananged international payments, that would be 195 customers ([World Atlas](https://www.worldatlas.com/articles/how-many-countries-are-in-the-world.html)). Granted, there are multiple financial institutions in every country, more currencies to connect, and plenty of room for Ripple to grow. The remaining factor is soley competition in the blockchain and cryptocurrency domain that services global payment systems. ([Ripple-Overview](https://ripple.com/wp-content/uploads/2020/03/RippleNet-Overview.pdf))
     
-    Ripple's primary competitor is SWIFT, an international organization that connects over 10,000 financial insitutions worldwide. This organization runs on less effective, more traditional technology and communication methods for transferring 25 million transaction messages a day. The downside SWIFT's process consists of "regulatory oversight, compliance checks and other layers of protection, and is facilitated via a complex series of service agreements". ([Castillo,2018](https://www.forbes.com/sites/michaeldelcastillo/2018/09/04/ripples-trillion-dollar-man/#611091387324)) So what does Ripple offer that they don't? Secure and instant transmission of funds. But Ripple is not the only one who offers the security and speed of blockchain technology in banking transactions. Stellar (XLM), which also provides a blockchain money transfer system, has similar goals. In fact, one of the original founders, McCaleb, split in 2014 and used Ripple as a baseframe and founded Stellar. It seems that with the original reputation, Ripple still has more backing and trust in its technologies that forked startup Stellar. ([Castillo,2018](https://www.forbes.com/sites/michaeldelcastillo/2018/09/04/ripples-trillion-dollar-man/#611091387324)) ([ripple.com](https://ripple.com/)) 
+    Ripple's primary competitor is SWIFT, an international organization that connects over 10,000 financial insitutions worldwide. This organization runs on less effective, more traditional technology and communication methods for transferring 25 million transaction messages a day. The downside SWIFT's process consists of "regulatory oversight, compliance checks and other layers of protection, and is facilitated via a complex series of service agreements". ([Castillo,2018](https://www.forbes.com/sites/michaeldelcastillo/2018/09/04/ripples-trillion-dollar-man/#611091387324)) 
     
-    One unfair advantage that is potentially being used by Ripple, is the fact that it is considered to be a more "centralized" cryptocurrency. This may be to their advantage, because centralized banks, may be more willing to adopt technology that is only appearing as decentralized, but is more consistent with the concepts of traditional banking and control. Whereas they may be opposed to truely "decentralized" cryptocurrencies that exist. There is debate on this topic in the crypto-community among Bitcoin and Ethereum supporters. Schwartz has tried to down play this view that Ripple is "centralized" and entice those seeking total decentralization. He has encouraged more people to get on board and start using Ripple as a building block, similar to how there is a multitude of Ethereum Tokens built on top of the Ethereum network. ([Castillo, 2018](https://www.forbes.com/sites/michaeldelcastillo/2018/09/04/ripples-trillion-dollar-man/#611091387324))     
+    So what does Ripple offer that they don't? Secure and instant transmission of funds. But Ripple is not the only one who offers the security and speed of blockchain technology in banking transactions. Stellar (XLM), which also provides a blockchain money transfer system, has similar goals. In fact, one of the original founders, McCaleb, split in 2014 and used Ripple as a baseframe and founded Stellar. It seems that with the original reputation, Ripple still has more backing and trust in its technologies vs. forked startup Stellar. ([Castillo,2018](https://www.forbes.com/sites/michaeldelcastillo/2018/09/04/ripples-trillion-dollar-man/#611091387324)) ([ripple.com](https://ripple.com/)) 
+    
+    One unfair advantage that is potentially being used by Ripple, is the fact that it is considered to be a more "centralized" cryptocurrency. This may be to their advantage, because centralized banks may be more willing to adopt technology that is only appearing as decentralized, but is more consistent with the concepts of traditional banking and control. Whereas banks and financial institutions may be opposed to truely "decentralized" cryptocurrencies that exist. There is debate on this topic in the crypto-community among Bitcoin and Ethereum supporters. Ripple founder, Schwartz has tried to down play this view that Ripple is "centralized" and entice those seeking total decentralization. He has encouraged more people to get on board and start using Ripple as a building block, similar to how there is a multitude of Ethereum Tokens built on top of the Ethereum network. ([Castillo, 2018](https://www.forbes.com/sites/michaeldelcastillo/2018/09/04/ripples-trillion-dollar-man/#611091387324))     
 
 
 * **Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)**
@@ -53,7 +57,7 @@ Ripple (XRP) is the company to be presented in this case study.
 
 * **What domain of the financial industry is the company in?**
 
-    Ripple is in the Cryptocurrency and Blockchain domain of FinTech. This is evidenced by its use of blockchain technology to create and develop a cryptocurrency platform that can be used in financial transactions. ([Forbes, 2019](https://www.forbes.com/companies/ripple/?list=fintech/#206f5f313997))
+    Ripple is in the Cryptocurrency and Blockchain domain of FinTech. This is evidenced by its use of blockchain-like technology to create and develop a cryptocurrency platform that can be used in financial transactions. Note, Ripple is blockchain-like because it uses its own private ledger and consensus mechanism in its server network to verify and record transactions ([Frankenfield,2019](https://www.investopedia.com/terms/r/ripple-cryptocurrency.asp) ). So yes, it's blockchain but Ripple basically has its own unique blockchain. ([Forbes, 2019](https://www.forbes.com/companies/ripple/?list=fintech/#206f5f313997)) 
 
 * **What have been the major trends and innovations of this domain over the last 5-10 years?** 
 
